@@ -1,5 +1,4 @@
 # 4L9IF0P3 - Analyse des données et datavisualisation 
-Cours de Monsieur Courtin - janvier 2022
 
 Les toilettes publiques sur les lignes RATP en Ile-de-France
  
