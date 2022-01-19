@@ -8,8 +8,8 @@ C’est la raison pour laquelle, j’ai choisi de mener cette étude afin de met
 > Sommaire 
 
 1. Le nombre de toilettes publiques 
-   * a. Les lignes
-   * b. Les stations
+   * a. Par lignes RATP (métro et RER) 
+   * b. Les stations équipées des toilettes publiques 
 
 2. Les toilettes publiques gratuites et payantes
 
