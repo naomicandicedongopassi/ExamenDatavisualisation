@@ -8,7 +8,7 @@ C’est la raison pour laquelle, j’ai choisi de mener cette étude afin de met
 > Sommaire 
 
 1. Le nombre de toilettes publiques 
-   * a. Par lignes RATP (métro et RER) 
+   * a. Généralités
    * b. Les stations équipées des toilettes publiques 
 
 2. Les toilettes publiques gratuites et payantes
@@ -23,11 +23,7 @@ ___________________________________________________________
 
 
 1. Le nombre de toilettes publiques
-   * a. Par lignes RATP (métro et RER) 
-
-Ce graphique représente le nombre de toilettes publiques par ligne RATP. Notamment, le RER A possède plus de 21 toilettes publiques. En effet, le RER A fait partie des lignes principales en Ile de France. Elle est empruntée par des millions de voyageurs, que ce soit par les touristes ou par les travailleurs. ---
-
-<iframe src="https://data.opendatasoft.com/chart/embed/toilettespubliques_ratp_graphique/?&static=false&datasetcard=true" width="600" height="450" frameborder="0"></iframe>
+   * a. Généralités 
 
 
 
