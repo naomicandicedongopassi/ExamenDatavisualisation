@@ -30,3 +30,9 @@ Ce graphique représente le nombre de toilettes publiques par ligne RATP. Notamm
 <iframe src="https://data.opendatasoft.com/chart/embed/toilettespubliques_ratp_graphique/?&static=false&datasetcard=true" width="600" height="450" frameborder="0"></iframe>
 
 
+
+   * b. Les stations équipées des toilettes publiques
+
+
+[toilettes%5Fpubliques%5FRATP% copie 2.csv](https://github.com/naomicandicedongopassi/ExamenDatavisualisation/files/7933867/toilettes.5Fpubliques.5FRATP.copie.2.csv)
+
