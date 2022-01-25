@@ -33,7 +33,3 @@ Ce graphique représente le nombre de toilettes publiques par ligne RATP. Notamm
 
    * b. Les stations équipées des toilettes publiques
 
-<iframe title="Les noms des stations RATP équipées des toilettes publiques" aria-label="Carte de localisation" id="datawrapper-chart-I0o7c" src="https://datawrapper.dwcdn.net/I0o7c/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="506"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> 
-
-<iframe title="Les noms des stations RATP équipées des toilettes publiques" aria-label="Carte de localisation" id="datawrapper-chart-I0o7c" src="https://datawrapper.dwcdn.net/I0o7c/2/" scrolling="no" frameborder="0" style="border: none;" width="550" height="506"></iframe>
