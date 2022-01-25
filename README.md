@@ -8,16 +8,15 @@ C’est la raison pour laquelle, j’ai choisi de mener cette étude afin de met
 
 > Sommaire 
 
-1. Le nombre de toilettes publiques 
+1. Le nombre de toilettes publiques sur les lignes RATP 
    * a. Généralités
    * b. Les stations équipées des toilettes publiques 
 
 2. Les toilettes publiques gratuites et payantes
 
-3. L’accès aux toilettes publiques 
-   * a. Pour les personnes à mobilité réduite
-   * b. Par le biais du ticket T+ et le pass Navigo
-
+3. L’accès aux toilettes publiques sur le réseau RATP
+   * a. Pour les personnes à mobilité réduite (PMR) 
+   * b. En zone contrôlée et en hors zone contrôlée 
 
 ___________________________________________________________
 
@@ -58,5 +57,20 @@ Nous avons repéré certaines stations qui possèdent autant de toilettes publiq
 <iframe src="https://data.opendatasoft.com/chart/embed/toilettespubliques_ratp_graphique/?&static=false&datasetcard=false" width="600" height="450" frameborder="0"></iframe>
 Source : OpenDatasoft 
 (https://data.opendatasoft.com/chart/embed/toilettespubliques_ratp_graphique/)
+
+
+
+2. Les toilettes publiques gratuites et payantes
+
+
+
+
+3. L’accès aux toilettes publiques sur le réseau RATP
+   * a. Pour les personnes à mobilité réduite (PMR)
+
+
+
+
+   * b. En zone contrôlée et en hors zone contrôlée 
 
 
