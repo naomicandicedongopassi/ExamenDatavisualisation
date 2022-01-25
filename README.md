@@ -29,3 +29,7 @@ ___________________________________________________________
 
    * b. Les stations équipées des toilettes publiques
 
+
+<iframe src="https://data.opendatasoft.com/chart/embed/toilettespubliques_ratp_graphique/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+
+
