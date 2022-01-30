@@ -323,6 +323,11 @@ Voici l'historique des modifications :
 
 Après cette modification, j’ai téléchargé le fichier en format CSV. Cette carte provient du fichier nettoyé à l’aide d’OpenRefine, téléchargé en format CSV et importé dans Datawrapper. 
 
+Voici le fichier retravaillé à partir d'OpenRefine, et importé dans Datawrapper :
+
+<iframe title="Toilettes publiques dans le réseau RATP " aria-label="Tableau" id="datawrapper-chart-3S7Q5" src="https://datawrapper.dwcdn.net/3S7Q5/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2260"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
    * b. Les stations équipées des toilettes publiques
 
 Ce graphique représente le nombre de toilettes publiques par ligne RATP. Notamment, le RER A possède plus de 21 toilettes publiques. En effet, le RER A fait partie des lignes principales en Ile de France. Elle est empruntée par des millions de voyageurs, que ce soit par les touristes ou par les travailleurs. Ensuite, le RER B possède 11 toilettes publiques.
@@ -342,6 +347,10 @@ Source : OpenDatasoft
 
 2. Les toilettes publiques gratuites et payantes
 
+Nous avons repéré des toilettes publiques gratuites et des toilettes publiques payantes. Parmi les 48 stations, 2 d’entre elles possèdent des toilettes publiques payantes. Il s’agit de : 
+- La station Cluny la Sorbonne, desservie par la ligne 10
+- La station Saint-Germain-en-Laye, desservie par le RER A 
+Ces deux stations sont situées vers des sites touristiques, voire dans des quartiers les plus aisés. 
 
 
 
@@ -352,5 +361,20 @@ Source : OpenDatasoft
 
 
    * b. En zone contrôlée et en hors zone contrôlée 
+
+Les toilettes situées en zone contrôlée sont accessibles après avoir validé le titre de transport. Les toilettes peuvent se situer sur les quais par exemple (à l’avant ou à l’arrière du quai). 
+
+Les toilettes situées hors zone contrôlée sont positionnées à l’entrée des gares ou à côté de la gare, située à l’extérieur. 
+
+En regardant les données, certaines toilettes publiques hors zone contrôlée, notamment en voie publique, demandent aux passagers d’avoir des tickets t+ ou Pass Navigo pour y accéder, notamment dans les stations telles que : 
+- Arcueil Cachan
+- Cluny - La Sorbonne
+- La Place
+- Massy-Palaiseau
+- Saint-Maur - Créteil
+- Saint-Remy-les- Chevreuse
+- Villejuif- Louis Aragon 
+
+Source : Rawgraphs
 
 
