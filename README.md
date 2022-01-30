@@ -328,6 +328,7 @@ Voici le tableau de données retravaillé à partir d'OpenRefine, et importé da
 <iframe title="Toilettes publiques dans le réseau RATP " aria-label="Tableau" id="datawrapper-chart-3S7Q5" src="https://datawrapper.dwcdn.net/3S7Q5/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2260"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
+
    * b. Les stations équipées des toilettes publiques
 
 Ce graphique représente le nombre de toilettes publiques par ligne RATP. Notamment, le RER A possède plus de 21 toilettes publiques. En effet, le RER A fait partie des lignes principales en Ile de France. Elle est empruntée par des millions de voyageurs, que ce soit par les touristes ou par les travailleurs. Ensuite, le RER B possède 11 toilettes publiques.
