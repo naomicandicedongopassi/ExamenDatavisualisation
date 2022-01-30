@@ -35,7 +35,7 @@ Cette carte représente le nombre de stations RATP qui possèdent des toilettes 
 
 
 
-Pour connaître la localisation des toilettes publiques RATP en Ile-de-France, j’ai voulu utiliser Datawrapper, à partir du fichier CSV téléchargé sur le site Data Ile-de-France. En revanche, je me suis heurtée à quelques difficultés. En effet, les résultats attendus ne s'affichent pas sur Datawrapper. Par conséquent, j’ai utilisé OpenRefine pour plusieurs raisons. (ou j’ai eu recours à OpenRefine pour plusieurs raisons) :
+Pour connaître la localisation des toilettes publiques RATP en Ile-de-France, j’ai voulu utiliser Datawrapper, à partir du fichier CSV téléchargé sur le site Data Ile-de-France. En revanche, je me suis heurtée à quelques difficultés. En effet, les résultats attendus ne s'affichent ni sur Datawrapper, ni sur Rawgraphs. Par conséquent, j’ai utilisé OpenRefine pour plusieurs raisons. (ou j’ai eu recours à OpenRefine pour plusieurs raisons) :
 - Avant le nettoyage des données : dans la colonne consacrée aux coordonnées géographiques, la latitude ainsi que la longitude sont rassemblées sur une seule colonne, dont séparées uniquement par une virgule. En utilisant l’outil Opendatasoft, je n’ai pas rencontré de soucis. En revanche, lorsque j’ai voulu utilisé Datawrapper pour éditer une carte, toutes les informations importées à partir du fichier CSV n’ont pas été prises en compte. Par conséquent, il serait préférable de nettoyer les données. 
 
 Sur OpenRefine, j’ai procédé à quelques modifications. J’ai dû : 
@@ -323,7 +323,7 @@ Voici l'historique des modifications :
 
 Après cette modification, j’ai téléchargé le fichier en format CSV. Cette carte provient du fichier nettoyé à l’aide d’OpenRefine, téléchargé en format CSV et importé dans Datawrapper. 
 
-Voici le fichier retravaillé à partir d'OpenRefine, et importé dans Datawrapper :
+Voici le tableau de données retravaillé à partir d'OpenRefine, et importé dans Datawrapper :
 
 <iframe title="Toilettes publiques dans le réseau RATP " aria-label="Tableau" id="datawrapper-chart-3S7Q5" src="https://datawrapper.dwcdn.net/3S7Q5/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2260"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
