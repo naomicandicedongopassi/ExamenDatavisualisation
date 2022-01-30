@@ -354,7 +354,6 @@ Nous avons repéré des toilettes publiques gratuites et des toilettes publiques
 Ces deux stations sont situées vers des sites touristiques, voire dans des quartiers les plus aisés. 
 
 
-
 3. L’accès aux toilettes publiques sur le réseau RATP
    * a. Pour les personnes à mobilité réduite (PMR)
 
