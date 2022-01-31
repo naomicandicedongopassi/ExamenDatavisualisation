@@ -323,7 +323,7 @@ Voici l'historique des modifications :
 Après cette modification, j’ai téléchargé le fichier en format Excel. Cette carte provient du fichier nettoyé à l’aide d’OpenRefine, téléchargé au même format et importé dans Datawrapper. 
 
 Voici le tableau de données retravaillé à partir d'OpenRefine, et importé dans Datawrapper :
-<iframe title="Toilettes publiques dans le réseau RATP " aria-label="Tableau" id="datawrapper-chart-3S7Q5" src="https://datawrapper.dwcdn.net/3S7Q5/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2060"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Toilettes publiques dans le réseau RATP " aria-label="Tableau" id="datawrapper-chart-3S7Q5" src="https://datawrapper.dwcdn.net/3S7Q5/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2073"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 
