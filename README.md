@@ -7,7 +7,7 @@ C’est la raison pour laquelle, j’ai choisi de mener cette étude afin de met
 
 Voici le tableau des données, issu du jeu de données OpenDatasoft : 
 
-<iframe src="https://data.opendatasoft.com/explore/embed/dataset/sanitaires-reseau-ratp@dataratp/table/?&static=false&datasetcard=true" width="400" height="300" frameborder="0"></iframe>
+<iframe src="https://data.opendatasoft.com/explore/embed/dataset/sanitaires-reseau-ratp@dataratp/table/?&static=false&datasetcard=true" width="600" height="450" frameborder="0"></iframe>
 
 ---------------------------------------------------------
 
