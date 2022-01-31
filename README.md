@@ -5,7 +5,7 @@
 Mon étude porte sur les toilettes publiques sur les lignes RATP (régie autonome des transports parisiens) en Ile-de-France. Bien que les transports ferroviaires soient les plus plébiscités par les Franciliens et par les touristes étrangers et provinciaux pour se rendre à la capitale, je remarque que la plupart des toilettes publiques sont situées dans les grandes gares parisiennes telles que Paris Montparnasse, Paris Saint-Lazare, Paris Est, Paris Nord, Paris Austerlitz, Paris Gare de Lyon, Paris Bercy. De plus, la plupart d’entre elles sont payantes. Puis, concernant les stations parisiennes et franciliennes desservies par le réseau RATP, j’ai rarement vu des toilettes publiques. 
 C’est la raison pour laquelle, j’ai choisi de mener cette étude afin de mettre en évidence leur implantation ainsi que les conditions d’utilisation des toilettes publiques dans les stations parisiennes. 
 
-Voici le tableau des données, issu du jeu de données OpenDatasoft 
+Voici le tableau des données, issu du jeu de données OpenDatasoft : 
 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/sanitaires-reseau-ratp@dataratp/table/?&static=false&datasetcard=true" width="400" height="300" frameborder="0"></iframe>
 
