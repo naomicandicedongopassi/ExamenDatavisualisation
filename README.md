@@ -13,13 +13,13 @@ Voici le tableau des données, issu du jeu de données OpenDatasoft
 
 > Sommaire 
 
-1. Le nombre de toilettes publiques sur les lignes RATP 
+Partie 1 : Le nombre de toilettes publiques sur les lignes RATP
    * a. Généralités
    * b. Les stations équipées des toilettes publiques 
 
-2. Les toilettes publiques gratuites et payantes
+Partie 2 : Les toilettes publiques gratuites et payantes
 
-3. L’accès aux toilettes publiques sur le réseau RATP
+Partie 3 : L’accès aux toilettes publiques sur le réseau RATP
    * a. Pour les personnes à mobilité réduite (PMR) 
    * b. En zone contrôlée et en hors zone contrôlée 
 
@@ -27,7 +27,7 @@ ___________________________________________________________
 
 
 
-1. Le nombre de toilettes publiques
+Partie 1 : Le nombre de toilettes publiques
    * a. Généralités 
 
 Cette carte représente le nombre de stations RATP qui possèdent des toilettes publiques en Ile-de- France. Grâce aux coordonnées géographiques, la plupart d’entre elles sont situées dans Paris, grâce aux métros parisiens. Les autres sont situées dans la région parisienne par le biais des autres lignes RATP. 
@@ -324,7 +324,8 @@ Voici l'historique des modifications :
 Après cette modification, j’ai téléchargé le fichier en format CSV. Cette carte provient du fichier nettoyé à l’aide d’OpenRefine, téléchargé en format CSV et importé dans Datawrapper. 
 
 Voici le tableau de données retravaillé à partir d'OpenRefine, et importé dans Datawrapper :
-
+<iframe title="Toilettes publiques dans le réseau RATP " aria-label="Tableau" id="datawrapper-chart-3S7Q5" src="https://datawrapper.dwcdn.net/3S7Q5/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2260"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 
    * b. Les stations équipées des toilettes publiques
@@ -344,7 +345,7 @@ Source : OpenDatasoft
 
 
 
-2. Les toilettes publiques gratuites et payantes
+Partie 2 : Les toilettes publiques gratuites et payantes
 
 Nous avons repéré des toilettes publiques gratuites et des toilettes publiques payantes. Parmi les 48 stations, 2 d’entre elles possèdent des toilettes publiques payantes. Il s’agit de : 
 - La station Cluny la Sorbonne, desservie par la ligne 10
@@ -352,7 +353,7 @@ Nous avons repéré des toilettes publiques gratuites et des toilettes publiques
 Ces deux stations sont situées vers des sites touristiques, voire dans des quartiers les plus aisés. 
 
 
-3. L’accès aux toilettes publiques sur le réseau RATP
+Partie 3 : L’accès aux toilettes publiques sur le réseau RATP
    * a. Pour les personnes à mobilité réduite (PMR)
 
 
