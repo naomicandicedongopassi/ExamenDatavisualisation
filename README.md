@@ -359,13 +359,15 @@ Partie 3 : L’accès aux toilettes publiques sur le réseau RATP
 
 
 
-   * b. En zone contrôlée et en hors zone contrôlée 
+   * b. En zone contrôlée et en hors zone contrôlée voie publique 
 
 Les toilettes situées en zone contrôlée sont accessibles après avoir validé le titre de transport. Les toilettes peuvent se situer sur les quais par exemple (à l’avant ou à l’arrière du quai). 
+Les toilettes situées hors zone contrôlée sont positionnées à l’entrée des gares ou à côté de la gare, située à l’extérieur. Pour montrer cela, j'ai utilisé Rawgraphs pour mettre l'accent sur les toilettes publiques situées sur les voies publiques uniquement. 
+ 
+![viz](https://user-images.githubusercontent.com/97068887/151870066-b7b1395d-ba4d-44dc-b613-fc1310dbfa43.svg)
+Source : Rawgraphs
 
-Les toilettes situées hors zone contrôlée sont positionnées à l’entrée des gares ou à côté de la gare, située à l’extérieur. 
-
-En regardant les données, certaines toilettes publiques hors zone contrôlée, notamment en voie publique, demandent aux passagers d’avoir des tickets t+ ou Pass Navigo pour y accéder, notamment dans les stations telles que : 
+Certaines toilettes publiques hors zone contrôlée, notamment en voie publique, demandent aux passagers d’avoir des tickets t+ ou Pass Navigo pour y accéder, notamment dans les stations telles que : 
 - Arcueil Cachan
 - Cluny - La Sorbonne
 - La Place
@@ -374,6 +376,6 @@ En regardant les données, certaines toilettes publiques hors zone contrôlée, 
 - Saint-Remy-les- Chevreuse
 - Villejuif- Louis Aragon 
 
-Source : Rawgraphs
+
 
 
