@@ -11,8 +11,7 @@ Source : Rawgraphs  (NB : ceci a été réalisé à partir du tableau de donnée
 
 Certaines toilettes publiques hors zone contrôlée, notamment en voie publique, demandent aux passagers d’avoir des tickets t+ ou Pass Navigo pour y accéder, notamment dans les stations telles que : 
 - Arcueil Cachan
-- Cluny - La Sorbonne
-- La Place
+- Laplace
 - Massy-Palaiseau
 - Saint-Maur - Créteil
 - Saint-Rémy-les-Chevreuse
