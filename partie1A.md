@@ -6,16 +6,16 @@ Cette carte représente le nombre de stations RATP qui possèdent des toilettes 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/8573833"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Pour connaître la localisation des toilettes publiques RATP en Ile-de-France, j’ai voulu utiliser Flourish, à partir du fichier Excel téléchargé sur le site Open Data RATP. En revanche, je me suis heurtée à quelques difficultés. En effet, les résultats attendus ne s'affichent pas sur Flourish. Par conséquent, j’ai utilisé OpenRefine pour la raison suivante :
-- Avant le nettoyage des données : dans la colonne consacrée aux coordonnées géographiques, la latitude ainsi que la longitude sont rassemblées sur une seule colonne, dont séparées uniquement par une virgule. En utilisant l’outil Opendatasoft, je n’ai pas rencontré de soucis. En revanche, lorsque j’ai voulu utilisé Flourish pour éditer une carte, toutes les informations importées à partir des fichiers Excel ou du fichier CSV n’ont pas été prises en compte. Par conséquent, il a fallu procéder au *datawrangling[^1]* (ou nettoyage des données). 
+Pour connaître la localisation des toilettes publiques RATP en Ile-de-France, j’ai voulu utiliser Flourish, à partir du fichier Excel téléchargé sur le site Open Data RATP. En revanche, je me suis heurtée à quelques difficultés. En effet, les résultats attendus ne s'affichent pas sur Flourish. En conséquence, j’ai utilisé OpenRefine pour la raison suivante :
+- Avant le nettoyage des données : dans la colonne consacrée aux coordonnées géographiques, la latitude ainsi que la longitude sont rassemblées sur une seule colonne, dont séparées uniquement par une virgule. En utilisant l’outil Opendatasoft, je n’ai pas rencontré de soucis. En revanche, lorsque j’ai voulu utiliser Flourish pour éditer une carte, toutes les informations importées à partir des fichiers Excel ou du fichier CSV n’ont pas été prises en compte. Par conséquent, il a fallu procéder au *datawrangling[^1]*. 
 
 Sur OpenRefine, j’ai procédé à quelques modifications. J’ai dû : 
-- Réconcilier les noms de stations franciliennes desservies par le réseau RATP, qui possèdent des toilettes publiques (en les considérant comme des stations ferroviaires).  A la fin, toutes ont une propriété Wikidata attribuée, comme l'exemple dans la capture d'écran :
+- Réconcilier les noms de stations franciliennes desservies par le réseau RATP, qui possèdent des toilettes publiques (en les considérant comme des stations ferroviaires). A la fin, toutes ont une propriété Wikidata attribuée, comme l'exemple dans la capture d'écran :
 
 ![Capture d’écran 2022-02-01 à 17 39 26](https://user-images.githubusercontent.com/97068887/152011001-b4e5eb0e-d978-4083-ba26-38b5c7eb112d.png)
 *Capture d'écran de la page provenant d'OpenRefine*
 
-- Renommer les noms des colonnes, en évitant des espaces. 
+- Renommer les noms des colonnes, en évitant des espaces 
 - Diviser en plusieurs colonnes la colonne coord_geo transformée en deux dont : 
   - Une colonne qui rassemble les latitudes
   - Une autre colonne qui rassemble les longitudes
