@@ -406,5 +406,5 @@ Certaines toilettes publiques hors zone contrôlée, notamment en voie publique,
 - Villejuif - Louis Aragon 
 
 
-|C'est par ceci que mon étude sur ce sujet bien particulier se termine. Merci pour votre attention !|
+:---: |C'est par ceci que mon étude sur ce sujet bien particulier se termine. Merci pour votre attention !|
  
