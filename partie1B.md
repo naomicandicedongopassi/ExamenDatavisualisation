@@ -18,6 +18,6 @@ Source : OpenDatasoft
 
 --------------------------------------------------------------
 
-* [Page précédente](partie1A.md)
 * [Page suivante](partie2.md)
+* [Page précédente](partie1A.md)
 * [Retour à la page d'accueil](README.md)
