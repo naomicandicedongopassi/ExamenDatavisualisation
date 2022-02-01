@@ -21,7 +21,7 @@ Voici le tableau des données, issu du jeu de données OpenDatasoft :
    * [a. Généralités](partie1A.md)
    * [b. Les stations équipées des toilettes publiques](partie1B.md) 
 
-Partie 2 : Les toilettes publiques gratuites et payantes
+[Partie 2 : Les toilettes publiques gratuites et payantes](partie2.md)
 
 Partie 3 : L’accès aux toilettes publiques sur le réseau RATP
    * a. Pour les personnes à mobilité réduite (PMR) 
