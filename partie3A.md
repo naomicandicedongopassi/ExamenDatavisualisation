@@ -16,6 +16,6 @@ La plupart des stations possèdent des toilettes accessibles aux PMR, sauf pour 
 - Denfert Rochereau
 
 
-* [Page précédente](partie3B.md)
-* [Page suivante](partie2.md)
+* [Page précédente](partie2.md)
+* [Page suivante](partie3B.md)
 * [Retour à la page d'accueil](README.md)
