@@ -8,7 +8,7 @@ Mon étude porte sur les toilettes publiques sur les lignes RATP (régie autonom
 Puis, concernant les stations parisiennes et franciliennes desservies par le réseau RATP, j’ai rarement vu des toilettes publiques. 
 C’est la raison pour laquelle, j’ai choisi ce sujet afin de mettre en évidence leur implantation ainsi que les conditions d’utilisation des toilettes publiques dans les stations RATP.
 
-Voici le tableau des données, issu du jeu de données OpenDatasoft : 
+Voici le tableau des données, issu du jeu de données Opendatasoft : 
 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/sanitaires-reseau-ratp@dataratp/table/?&static=false&datasetcard=true" width="600" height="450" frameborder="0"></iframe>
 
