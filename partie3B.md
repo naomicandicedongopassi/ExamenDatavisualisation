@@ -1,4 +1,4 @@
-
+Partie 3 : L’accès aux toilettes publiques sur le réseau RATP
 
 * b. En zone contrôlée et en hors zone contrôlée voie publique 
 
@@ -19,4 +19,8 @@ Certaines toilettes publiques hors zone contrôlée, notamment en voie publique,
 - Villejuif - Louis Aragon 
 
 
-:---: |C'est par ceci que mon étude sur ce sujet bien particulier se termine. Merci pour votre attention !|
+:---: C'est par ceci que mon étude sur ce sujet bien particulier se termine. Merci pour votre attention !
+
+
+* [Page précédente](partie3A.md)
+* [Retour à la page d'accueil](README.md)
