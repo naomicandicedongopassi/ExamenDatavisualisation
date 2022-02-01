@@ -17,6 +17,6 @@ La plupart des stations possèdent des toilettes accessibles aux PMR, sauf pour 
 
 ----------------------------------------------------------
 
-* [Page précédente](partie2.md)
 * [Page suivante](partie3B.md)
+* [Page précédente](partie2.md)
 * [Retour à la page d'accueil](README.md)
