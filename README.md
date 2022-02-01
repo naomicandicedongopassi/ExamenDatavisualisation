@@ -355,8 +355,7 @@ Nous avons repéré des toilettes publiques gratuites et des toilettes publiques
 
 ![lineardendrogram](https://user-images.githubusercontent.com/97068887/151880748-063daf1e-abae-497b-be5e-e306218710c1.svg)
 
-Source : Rawgraphs
-NB : ceci a été réalisé à partir du tableau de données retravaillé avec OpenRefine. 
+Source : Rawgraphs  (NB : ceci a été réalisé à partir du tableau de données retravaillé avec OpenRefine) 
  
 Parmi les 48 stations, 2 d’entre elles possèdent des toilettes publiques payantes. Il s’agit de : 
 - la station Cluny la Sorbonne, desservie par la ligne 10
@@ -367,10 +366,21 @@ Les autres stations possèdent des toilettes publiques gratuites. En première p
 
 
 Partie 3 : L’accès aux toilettes publiques sur le réseau RATP
+ 
    * a. Pour les personnes à mobilité réduite (PMR)
+ 
+Avec Rawgraphs, nous avons voir le nombre de toilettes publiques équipées d’un accès aux PMR sur le réseau RATP. 
 
+![treemap2](https://user-images.githubusercontent.com/97068887/152008025-21ef06d1-564f-4cfe-81f0-774c41ef4ef8.svg)
 
+Source : Rawgraphs  (NB : ceci a été réalisé à partir du tableau de données retravaillé avec OpenRefine) 
 
+La plupart des stations possèdent des toilettes accessibles aux personnes à mobilité réduite, sauf pour les 5 stations telles que : 
+- Bobigny - Pablo Picasso
+- Charles de Gaulle - Etoile (sortie avenue Carnot, après la ligne de valideurs en venant de l’extérieur de la gare)
+- Charles de Gaulle - Etoile (en entrant par l’accès 3, avenue Hoche, dans le couloir menant vers la sortie 2, avenue de Friedland)
+ -Cité Universitaire 
+- Denfert Rochereau
 
    * b. En zone contrôlée et en hors zone contrôlée voie publique 
 
@@ -379,8 +389,7 @@ Les toilettes situées hors zone contrôlée sont positionnées à l’entrée d
  
 ![viz](https://user-images.githubusercontent.com/97068887/151870066-b7b1395d-ba4d-44dc-b613-fc1310dbfa43.svg)
 
-Source : Rawgraphs
-NB : ceci a été réalisé à partir du tableau de données retravaillé avec OpenRefine. 
+Source : Rawgraphs  (NB : ceci a été réalisé à partir du tableau de données retravaillé avec OpenRefine) 
 
 Certaines toilettes publiques hors zone contrôlée, notamment en voie publique, demandent aux passagers d’avoir des tickets t+ ou Pass Navigo pour y accéder, notamment dans les stations telles que : 
 - Arcueil Cachan
