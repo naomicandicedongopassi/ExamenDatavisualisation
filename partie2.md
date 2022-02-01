@@ -13,6 +13,7 @@ Ces deux stations sont situées vers des sites touristiques, voire dans des quar
 
 Les autres stations possèdent des toilettes publiques gratuites. En première position, on retrouve la station Châtelet-les-Halles qui détient trois toilettes publiques gratuites, suivie des stations comme Charles de Gaulle-Etoile et Noisy-le-Grand Mont d’Est possédant deux toilettes publiques gratuites. 
 
+--------------------------------------------------
 
 * [Page précédente](partie1B.md)
 * [Page suivante](partie3A.md) 
