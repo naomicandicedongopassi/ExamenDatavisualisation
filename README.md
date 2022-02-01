@@ -39,7 +39,7 @@ Cette carte représente le nombre de stations RATP qui possèdent des toilettes 
 <div class="flourish-embed flourish-map" data-src="visualisation/8573833"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Pour connaître la localisation des toilettes publiques RATP en Ile-de-France, j’ai voulu utiliser Flourish, à partir du fichier Excel téléchargé sur le site Open Data RATP. En revanche, je me suis heurtée à quelques difficultés. En effet, les résultats attendus ne s'affichent pas sur Flourish. Par conséquent, j’ai utilisé OpenRefine pour plusieurs raisons :
-- Avant le nettoyage des données : dans la colonne consacrée aux coordonnées géographiques, la latitude ainsi que la longitude sont rassemblées sur une seule colonne, dont séparées uniquement par une virgule. En utilisant l’outil Opendatasoft, je n’ai pas rencontré de soucis. En revanche, lorsque j’ai voulu utilisé Flourish pour éditer une carte, toutes les informations importées à partir des fichiers Excel ou du fichier CSV n’ont pas été prises en compte. Par conséquent, il a fallu procéder au *"datawrangling".*
+- Avant le nettoyage des données : dans la colonne consacrée aux coordonnées géographiques, la latitude ainsi que la longitude sont rassemblées sur une seule colonne, dont séparées uniquement par une virgule. En utilisant l’outil Opendatasoft, je n’ai pas rencontré de soucis. En revanche, lorsque j’ai voulu utilisé Flourish pour éditer une carte, toutes les informations importées à partir des fichiers Excel ou du fichier CSV n’ont pas été prises en compte. Par conséquent, il a fallu procéder au *"datawrangling"* (ou nettoyage des données). 
 
 Sur OpenRefine, j’ai procédé à quelques modifications. J’ai dû : 
 - Réconcilier les noms de stations franciliennes desservies par le réseau RATP, qui possèdent des toilettes publiques (en les considérant comme des stations ferroviaires).  A la fin, toutes ont une propriété Wikidata attribuée. 
@@ -324,7 +324,7 @@ Voici l'historique des modifications :
 ]
 ```
 
-Après cette modification, j’ai téléchargé le fichier en format Excel. Cette carte provient du fichier nettoyé à l’aide d’OpenRefine, téléchargé au même format et importé dans Datawrapper.
+Après cette modification, j’ai téléchargé le fichier en format Excel. Cette carte éditée avec Flourish provient du fichier nettoyé à l’aide d’OpenRefine, téléchargé au même format et importé. J'ai notamment utilisé ce même fichier pour créer des graphiques sur Rawgraphs. 
 
 Voici le tableau de données retravaillé à partir d'OpenRefine, et importé dans Datawrapper :
 <iframe title="Toilettes publiques dans le réseau RATP " aria-label="Tableau" id="datawrapper-chart-3S7Q5" src="https://datawrapper.dwcdn.net/3S7Q5/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2073"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -333,7 +333,8 @@ Voici le tableau de données retravaillé à partir d'OpenRefine, et importé da
 
    * b. Les stations équipées des toilettes publiques
 
-Ce graphique représente le nombre de toilettes publiques par ligne RATP. Notamment, le RER A possède plus de 21 toilettes publiques. En effet, le RER A fait partie des lignes principales en Ile de France. Elle est empruntée par des millions de voyageurs, que ce soit par les touristes ou par les travailleurs. Ensuite, le RER B possède 11 toilettes publiques.
+Ce graphique représente le nombre de toilettes publiques par ligne RATP. 
+Le RER A possède 21 toilettes publiques. En effet, le RER A fait partie des lignes principales en Ile-de-France. Elle est empruntée par des millions de voyageurs, que ce soit par les touristes ou par les travailleurs. Ensuite, le RER B possède 11 toilettes publiques.
 Du côté du métro parisien, six lignes possèdent chacune une toilette publique chacune, comme les lignes 1, 5, 6, 7, 10 et 12. 
 Nous avons repéré certaines stations qui possèdent autant de toilettes publiques. Voici les exemples :
 - Les stations Charles de Gaulle-Etoile (lignes 1 et RER A) et Châtelet-les-Halles (RER A) possèdent trois toilettes publiques. Cela est dû aux multiples correspondances avec les lignes de métro. Pour les personnes pressées ou pour celles qui n’ont pas de jetons, ces toilettes leur sont bénéfiques. Cela leur évite de rentrer dans les toilettes des centres commerciaux (notamment au Forum des Halles pour la station Châtelet) puisqu’elles sont payantes. 
@@ -355,7 +356,7 @@ Nous avons repéré des toilettes publiques gratuites et des toilettes publiques
 ![lineardendrogram](https://user-images.githubusercontent.com/97068887/151880748-063daf1e-abae-497b-be5e-e306218710c1.svg)
 
 Source : Rawgraphs
-NB : ceci a été réalisé à partir des données retravaillées avec OpenRefine. 
+NB : ceci a été réalisé à partir du tableau de données retravaillé avec OpenRefine. 
  
 Parmi les 48 stations, 2 d’entre elles possèdent des toilettes publiques payantes. Il s’agit de : 
 - la station Cluny la Sorbonne, desservie par la ligne 10
@@ -379,7 +380,7 @@ Les toilettes situées hors zone contrôlée sont positionnées à l’entrée d
 ![viz](https://user-images.githubusercontent.com/97068887/151870066-b7b1395d-ba4d-44dc-b613-fc1310dbfa43.svg)
 
 Source : Rawgraphs
-NB : ceci a été réalisé à partir des données retravaillées avec OpenRefine. 
+NB : ceci a été réalisé à partir du tableau de données retravaillé avec OpenRefine. 
 
 Certaines toilettes publiques hors zone contrôlée, notamment en voie publique, demandent aux passagers d’avoir des tickets t+ ou Pass Navigo pour y accéder, notamment dans les stations telles que : 
 - Arcueil Cachan
@@ -387,7 +388,7 @@ Certaines toilettes publiques hors zone contrôlée, notamment en voie publique,
 - La Place
 - Massy-Palaiseau
 - Saint-Maur - Créteil
-- Saint-Remy-les- Chevreuse
+- Saint-Rémy-les- Chevreuse
 - Villejuif- Louis Aragon 
 
 
