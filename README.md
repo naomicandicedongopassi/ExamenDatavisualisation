@@ -17,9 +17,9 @@ Voici le tableau des données, issu du jeu de données OpenDatasoft :
 
 > Sommaire 
 
-Partie 1 : Le nombre de toilettes publiques sur les lignes RATP 
-   * a. Généralités 
-   * b. Les stations équipées des toilettes publiques 
+[Partie 1 : Le nombre de toilettes publiques sur les lignes RATP](partie1A.md) 
+   * [a. Généralités](partie1A.md)
+   * [b. Les stations équipées des toilettes publiques](partie1B.md) 
 
 Partie 2 : Les toilettes publiques gratuites et payantes
 
