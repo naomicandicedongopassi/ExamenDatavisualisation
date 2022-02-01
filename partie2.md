@@ -15,6 +15,6 @@ Les autres stations possèdent des toilettes publiques gratuites. En première p
 
 --------------------------------------------------
 
-* [Page précédente](partie1B.md)
 * [Page suivante](partie3A.md) 
+* [Page précédente](partie1B.md)
 * [Retour à la page d'accueil](README.md)
