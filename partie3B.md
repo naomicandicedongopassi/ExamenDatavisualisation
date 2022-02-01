@@ -22,6 +22,7 @@ Certaines toilettes publiques hors zone contrôlée, notamment en voie publique,
 
 # ***C'est ici que mon étude se termine. Merci pour votre attention !*** 
 
+-------------------------------------------------
 
 * [Page précédente](partie3A.md)
 * [Retour à la page d'accueil](README.md)
