@@ -16,6 +16,7 @@ Nous avons repéré certaines stations qui possèdent autant de toilettes publiq
 Source : OpenDatasoft 
 (https://data.opendatasoft.com/chart/embed/toilettespubliques_ratp_graphique/)
 
+--------------------------------------------------------------
 
 * [Page précédente](partie1A.md)
 * [Page suivante](partie2.md)
