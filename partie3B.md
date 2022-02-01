@@ -10,9 +10,9 @@ Les toilettes situées hors zone contrôlée sont positionnées à l’entrée d
 Source : Rawgraphs  (NB : ceci a été réalisé à partir du tableau de données retravaillé avec OpenRefine) 
 
 Certaines toilettes publiques hors zone contrôlée, notamment en voie publique, demandent aux passagers d’avoir des tickets t+ ou Pass Navigo pour y accéder, notamment dans les stations telles que : 
-- Arcueil Cachan
+- Arcueil - Cachan
 - Laplace
-- Massy-Palaiseau
+- Massy - Palaiseau
 - Saint-Maur - Créteil
 - Saint-Rémy-les-Chevreuse
 - Villejuif - Louis Aragon 
