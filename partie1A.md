@@ -7,7 +7,7 @@ Cette carte représente le nombre de stations RATP qui possèdent des toilettes 
 <div class="flourish-embed flourish-map" data-src="visualisation/8573833"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Pour connaître la localisation des toilettes publiques RATP en Ile-de-France, j’ai voulu utiliser Flourish, à partir du fichier Excel téléchargé sur le site Open Data RATP. En revanche, je me suis heurtée à quelques difficultés. En effet, les résultats attendus ne s'affichent pas sur Flourish. Par conséquent, j’ai utilisé OpenRefine pour la raison suivante :
-- Avant le nettoyage des données : dans la colonne consacrée aux coordonnées géographiques, la latitude ainsi que la longitude sont rassemblées sur une seule colonne, dont séparées uniquement par une virgule. En utilisant l’outil Opendatasoft, je n’ai pas rencontré de soucis. En revanche, lorsque j’ai voulu utilisé Flourish pour éditer une carte, toutes les informations importées à partir des fichiers Excel ou du fichier CSV n’ont pas été prises en compte. Par conséquent, il a fallu procéder au *datawrangling* (ou nettoyage des données). 
+- Avant le nettoyage des données : dans la colonne consacrée aux coordonnées géographiques, la latitude ainsi que la longitude sont rassemblées sur une seule colonne, dont séparées uniquement par une virgule. En utilisant l’outil Opendatasoft, je n’ai pas rencontré de soucis. En revanche, lorsque j’ai voulu utilisé Flourish pour éditer une carte, toutes les informations importées à partir des fichiers Excel ou du fichier CSV n’ont pas été prises en compte. Par conséquent, il a fallu procéder au *datawrangling[^1]* (ou nettoyage des données). 
 
 Sur OpenRefine, j’ai procédé à quelques modifications. J’ai dû : 
 - Réconcilier les noms de stations franciliennes desservies par le réseau RATP, qui possèdent des toilettes publiques (en les considérant comme des stations ferroviaires).  A la fin, toutes ont une propriété Wikidata attribuée, comme l'exemple dans la capture d'écran :
@@ -301,7 +301,13 @@ Après cette modification, j’ai téléchargé le fichier en format Excel. Cett
 Voici le tableau de données retravaillé à partir d'OpenRefine, et importé dans Datawrapper :
 <iframe title="Toilettes publiques dans le réseau RATP " aria-label="Tableau" id="datawrapper-chart-3S7Q5" src="https://datawrapper.dwcdn.net/3S7Q5/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2073"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
  
+[^1]: Nettoyage des données 
+  
+-----------------------------------------------
 
 * [Page suivante](partie1B.md) 
 * [Retour à la page d'accueil](README.md) 
+  
+  
