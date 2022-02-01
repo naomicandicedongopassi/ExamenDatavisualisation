@@ -18,8 +18,7 @@ Certaines toilettes publiques hors zone contrôlée, notamment en voie publique,
 - Saint-Rémy-les-Chevreuse
 - Villejuif - Louis Aragon 
 
-
-:---: C'est par ceci que mon étude sur ce sujet bien particulier se termine. Merci pour votre attention !
+# ***C'est par ceci que mon étude se termine. Merci pour votre attention !*** 
 
 
 * [Page précédente](partie3A.md)
