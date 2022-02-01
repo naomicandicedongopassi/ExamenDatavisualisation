@@ -15,6 +15,7 @@ La plupart des stations possèdent des toilettes accessibles aux PMR, sauf pour 
 - Cité Universitaire 
 - Denfert Rochereau
 
+----------------------------------------------------------
 
 * [Page précédente](partie2.md)
 * [Page suivante](partie3B.md)
