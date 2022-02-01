@@ -23,9 +23,9 @@ Voici le tableau des données, issu du jeu de données OpenDatasoft :
 
 [Partie 2 : Les toilettes publiques gratuites et payantes](partie2.md)
 
-Partie 3 : L’accès aux toilettes publiques sur le réseau RATP
-   * a. Pour les personnes à mobilité réduite (PMR) 
-   * b. En zone contrôlée et en hors zone contrôlée 
+[Partie 3 : L’accès aux toilettes publiques sur le réseau RATP](partie3A.md)
+   * [a. Pour les personnes à mobilité réduite (PMR)](partie3A.md)
+   * [b. En zone contrôlée et en hors zone contrôlée](partie3B.md)
 
 ___________________________________________________________
 
