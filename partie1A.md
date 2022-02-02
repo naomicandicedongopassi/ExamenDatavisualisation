@@ -12,7 +12,7 @@ Pour connaître la localisation des toilettes publiques RATP en Ile-de-France, j
 Sur OpenRefine, j’ai procédé à quelques modifications. J’ai dû : 
 - Réconcilier les noms de stations franciliennes desservies par le réseau RATP, qui possèdent des toilettes publiques (en les considérant comme des stations ferroviaires). A la fin, toutes ont une propriété Wikidata attribuée, comme l'exemple dans la capture d'écran :
 
-![Capture d’écran 2022-02-01 à 17 39 26](https://user-images.githubusercontent.com/97068887/152011001-b4e5eb0e-d978-4083-ba26-38b5c7eb112d.png)
+![CaptureEcran_OpenRefine](https://user-images.githubusercontent.com/97068887/152215756-1fb283d9-6ec7-4775-a715-a24f20479a9e.png)
 *Capture d'écran de la page provenant d'OpenRefine*
 
 - Renommer les noms des colonnes, en évitant des espaces 
